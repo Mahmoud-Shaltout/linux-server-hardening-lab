@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "===================== SYSTEM REPORT #!/bin/bash
+
+echo "===== SYSTEM REPORT ====="
+date
+uptime
+df -h
+free -m"
+date
+uptime
+df -h
+free -m
